@@ -1,2 +1,5 @@
 # Hello
 Hi, Nice to meet you. My name is Ridwan.
+
+## Socials
+I am on X, LinkedIn and GitHub.
