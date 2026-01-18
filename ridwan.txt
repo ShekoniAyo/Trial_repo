@@ -1,0 +1,2 @@
+This is Ridwan's file.
+He is learning Git and Bash scripting.
