@@ -22,8 +22,8 @@ I use [GitHub](github.com) and use `git status` too
 1. Linux
 1. Git
 
-[] wake up
-[x] Pray
-[x] Take a bath
-[] Go back to bed
-[x] Continue practicing...
+[]wake up
+[x]Pray
+[x]Take a bath
+[]Go back to bed
+[x]Continue practicing...
