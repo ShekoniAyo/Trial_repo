@@ -27,3 +27,7 @@ I use [GitHub](github.com) and use `git status` too
 [x]Take a bath
 []Go back to bed
 [x]Continue practicing...
+
+Tool  | Purpose
+Markdown | Formatting Text
+Git | Version Control
