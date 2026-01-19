@@ -16,3 +16,8 @@ Example
 SELECT * FROM employees
 ```
 I use [GitHub](github.com) and use `git status` too
+
+1. Python
+1. SQL
+1. Linux
+1. Git
