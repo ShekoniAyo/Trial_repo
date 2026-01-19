@@ -7,9 +7,9 @@ I hope my data journey is an interesting one!!!
 
 use `SELECT *` to get all field from a table
 
--works well
--very short
-    -and handy too
+- works well
+- very short
+    - and handy too
 
 Example
 ```
